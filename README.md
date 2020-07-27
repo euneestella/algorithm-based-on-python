@@ -12,3 +12,5 @@ Let me know some other brilliant ideas to add on it!
 
 [Caesar Cipher](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/caesar_cipher>)
 
+[Replace alphabet position](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/replace_alphabet_position>)
+
