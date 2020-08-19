@@ -12,6 +12,8 @@ Let me know some other brilliant ideas to add on it!
 
 [Caesar Cipher](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/caesar_cipher>)
 
+[Delete element if more than n](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/delete-element-if-more-than-n>)
+
 [Finding odd init](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/finding-odd-init>)
 
 [Replace alphabet position](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/replace_alphabet_position>)
