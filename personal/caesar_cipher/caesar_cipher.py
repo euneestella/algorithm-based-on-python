@@ -2,6 +2,7 @@ def caesar_cipher(text):
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
     cipher = []
     for letter in text:
+        # Use a left shift of three
         if letter.islower():
             cipher.append(alphabet[(alphabet.index(letter)+3)%26])
         elif letter.isupper():
