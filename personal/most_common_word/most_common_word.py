@@ -7,4 +7,4 @@ banned = ["hit"]
 def common_word(paragraph):
     word = [word for word in re.sub('[,.]','',paragraph).lower().split()
             if word not in banned]
-    return(word)
+    return Counter(word).most_common(1)[0][0]
