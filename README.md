@@ -16,6 +16,8 @@ Let me know some other brilliant ideas to add on it!
 
 [Finding odd init](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/finding-odd-init>)
 
+[Most common word](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/most_common_word>)
+
 [Multiples of 3 or 5](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/multiples-of-3-or-5>)
 
 [Palindrome](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/palindrome>)
@@ -25,3 +27,5 @@ Let me know some other brilliant ideas to add on it!
 [Replace alphabet position](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/replace_alphabet_position>)
 
 [Reverse string](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/reverse-string>)
+
+[Two sum](<https://github.com/euneestella/algorithm-based-on-python/tree/master/personal/two_sum>)
